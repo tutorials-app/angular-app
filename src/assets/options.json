@@ -1,0 +1,16 @@
+[
+  {
+    "backgroundColor": "#000",
+    "buttonColor": "#ffc107",
+    "headingColor": "#673ab7",
+    "label": "Dark",
+    "value": "dark"
+  },
+  {
+    "backgroundColor": "#fff",
+    "buttonColor": "#ff4081",
+    "headingColor": "#3f51b5",
+    "label": "Light",
+    "value": "light"
+  }
+]
